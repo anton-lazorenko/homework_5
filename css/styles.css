@@ -1,0 +1,62 @@
+
+.box {
+    color: black;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    display: inline-block;
+    margin: -2px;
+    align-content: center;
+}
+
+.black {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    display: inline-block;
+    margin: -2px;
+    align-content: center;
+}
+
+span {
+    display: inline-block;
+    
+}
+
+.first {
+    display: inline-block;
+    margin-left: 35px;
+}
+
+.other {
+    display: inline-block;
+    margin-left: 90px;
+     
+}
+
+.center {
+    text-align: center;
+    border: 5px solid black;
+    height: 900px;
+    width:  900px;
+
+}
+
+#left {
+    margin-left: 10px;
+}
+
+#right {
+    margin-right: 10px;
+}
+.bottomboxes {
+    margin-bottom: 10px;
+}
+.topboxes {
+    margin-top: 10px;
+}
+.rightnumbers {
+    display: inline-block;
+}
+ 
